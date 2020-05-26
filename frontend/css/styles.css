@@ -1,0 +1,36 @@
+body {
+    font-family: "Open Sans";
+	font-weight: 900;
+	background-color:white;
+}
+
+#divBody {
+	color: rgb(58, 143, 204);
+	font-size: xx-large;
+	padding-top: 50px;
+	padding-left: 100px;
+}
+
+#divTitle {
+	background-color: rgb(58, 143, 204);
+	color: white;
+	font-size: 70px;
+	padding: 50px;
+	text-align: center;
+}
+
+a {
+	color: rgb(58, 143, 204);
+	cursor: pointer;
+	text-decoration: none;
+}
+
+span {
+	padding: 15px;
+	/* border: 5px solid white; */
+	cursor: pointer;
+}
+
+img {
+	/* padding-right: 37px; */
+}
